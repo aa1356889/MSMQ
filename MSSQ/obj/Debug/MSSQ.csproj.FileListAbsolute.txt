@@ -1,0 +1,6 @@
+G:\MyCode\MSSQ\MSSQ\bin\Debug\MSSQ.exe.config
+G:\MyCode\MSSQ\MSSQ\bin\Debug\MSSQ.exe
+G:\MyCode\MSSQ\MSSQ\bin\Debug\MSSQ.pdb
+G:\MyCode\MSSQ\MSSQ\obj\Debug\MSSQ.csprojResolveAssemblyReference.cache
+G:\MyCode\MSSQ\MSSQ\obj\Debug\MSSQ.exe
+G:\MyCode\MSSQ\MSSQ\obj\Debug\MSSQ.pdb
